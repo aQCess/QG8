@@ -22,8 +22,11 @@ A QG8 file consists of a header and a collection of chunks that encode a directe
 
 -----
 
-**This repository contains one file:
+**This repository contains one document:
 [QG8 file specification and programmers reference](QG8_Specification_v1.pdf)**
+
+-----
+
 
 # QG8 Libraries
 ## Python 
