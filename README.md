@@ -33,4 +33,4 @@ A QG8 file consists of a header and a collection of chunks that encode a directe
 https://github.com/aQCess/QG8-Python
 
 ## C/C++ 
-Coming soon
+https://github.com/aQCess/QG8-C
